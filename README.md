@@ -32,5 +32,11 @@ RecursiveCharacterTextSplitter for text chunking
 
 FAISS for efficient vector similarity search
 
+# Installation
+Clone the repo:
+Create and activate a Python virtual environment:
+Install dependencies:
+Set up your environment variables (e.g. Google API credentials) in a .env file.
+
 
 
