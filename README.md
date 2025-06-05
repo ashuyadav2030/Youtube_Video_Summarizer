@@ -1,4 +1,4 @@
-# Youtube_Video_Summarizer
+# YouTube Video Summarizer
 
 This is a FastAPI-based web service that generates detailed summaries of YouTube videos using the Google Gemini 2.0 Flash model. It leverages the YouTube Transcript API to fetch video captions, splits long transcripts efficiently, creates vector embeddings, and retrieves relevant context with FAISS before summarizing.
 
